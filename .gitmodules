@@ -1,0 +1,6 @@
+[submodule "arizona-searches-beagle-impute"]
+	path = arizona-searches-beagle-impute
+	url = https://github.com/EgorLappo/arizona-searches-beagle-impute
+[submodule "arizona-searches-compute-matches"]
+	path = arizona-searches-compute-matches
+	url = https://github.com/EgorLappo/arizona-searches-compute-matches

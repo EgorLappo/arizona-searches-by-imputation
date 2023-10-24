@@ -1,0 +1,7 @@
+beagle/*
+imputation_results/*
+computed_matches/*
+processed_data/*
+raw_data/*
+.vscode
+.direnv

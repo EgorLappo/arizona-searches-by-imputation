@@ -1,0 +1,130 @@
+median for true allele matches:
+10.0
+median for beagle-called allele matches:
+10.0
+median for beagle-ap matches:
+9.541
+median for true full matches:
+1.0
+median for beagle-called full matches:
+1.0
+median for beagle-ap full matches:
+0.957
+median for true partial matches:
+8.0
+median for beagle-called partial matches:
+8.0
+median for beagle-ap partial matches:
+7.549
+max for true allele matches:
+24
+rows with max for true allele matches:
+          rep  true_allele_matches
+3399309     7                   24
+4280914     9                   24
+6916820    14                   24
+10623010   22                   24
+12457629   25                   24
+15659442   32                   24
+16871431   34                   24
+18409934   37                   24
+20047099   40                   24
+22322209   45                   24
+23387283   47                   24
+28569351   57                   24
+29212846   59                   24
+31525499   63                   24
+37105258   74                   24
+38887597   78                   24
+41185123   83                   24
+43473256   87                   24
+45232623   91                   24
+47665327   96                   24
+total number of these values: 20
+max for beagle-called allele matches:
+25
+rows with max for beagle-called allele matches:
+          rep  called_allele_matches
+2664626     6                     25
+5595429    12                     25
+11370358   23                     25
+18860862   38                     25
+22281879   45                     25
+29949204   60                     25
+30488770   61                     25
+43931704   88                     25
+total number of these values: 8
+max for beagle-ap allele matches:
+22.926
+rows with max for beagle-ap allele matches:
+         rep  mean_allele_matches
+5595429   12               22.926
+total number of these values: 1
+max for true full matches:
+8
+rows with max for true full matches:
+          rep  true_full_matches
+219426      1                  8
+625623      2                  8
+996175      2                  8
+1303438     3                  8
+1420510     3                  8
+...       ...                ...
+49136613   98                  8
+49169188   99                  8
+49169256   99                  8
+49504115   99                  8
+49980090  100                  8
+
+[238 rows x 2 columns]
+total number of these values: 238
+max for beagle-called full matches:
+11
+rows with max for beagle-called full matches:
+          rep  called_full_matches
+30488770   61                   11
+total number of these values: 1
+max for beagle-ap full matches:
+8.346
+rows with max for beagle-ap full matches:
+          rep  mean_full_matches
+35638589   72              8.346
+total number of these values: 1
+max for true partial matches:
+17
+rows with max for true partial matches:
+          rep  true_partial_matches
+255499      1                    17
+256089      1                    17
+444110      1                    17
+596468      2                    17
+643461      2                    17
+...       ...                   ...
+49424786   99                    17
+49871266  100                    17
+49886783  100                    17
+49900942  100                    17
+49934267  100                    17
+
+[313 rows x 2 columns]
+total number of these values: 313
+max for beagle-called partial matches:
+18
+rows with max for beagle-called partial matches:
+          rep  called_partial_matches
+3175441     7                      18
+12835074   26                      18
+15206399   31                      18
+20688824   42                      18
+26592629   54                      18
+30261777   61                      18
+33181736   67                      18
+33393233   67                      18
+48352158   97                      18
+total number of these values: 9
+max for beagle-ap partial matches:
+16.974
+rows with max for beagle-ap partial matches:
+         rep  mean_partial_matches
+1172508    3                16.974
+total number of these values: 1
