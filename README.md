@@ -4,15 +4,7 @@ Code accompanying the manuscript *"Performing Arizona searches by imputation"* b
 
 ## How to run
 
-**0.** Make sure your machine has [`git`](https://git-scm.com/downloads) and [`git-lfs`](https://git-lfs.com) installed.
-
-Then, clone this repository to your machine by running either of these commands.
-```
-gh repo clone EgorLappo/arizona-searches-by-imputation
-git clone https://github.com/EgorLappo/arizona-searches-by-imputation.git
-```
-
-Make sure the input data has been downloaded by running `git lfs fetch`.
+**0.** Download the supplement to the paper from the journal website. A `.zip` file in the supplement to the article contains code from this repository together with the input data.
 
 **1.** Install `nix` with [this installer](https://zero-to-nix.com/start/install). TLDR: run the following command
 
