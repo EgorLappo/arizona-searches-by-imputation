@@ -58,7 +58,7 @@
           done
 
           echo "writing sample ids"
-          bcftools query -l CSF1PO_halfwindow500000WithSTR.vcf > ../sample_ids.csv
+          bcftools query -l CSF1PO_halfwindow500000WithCODIS.vcf > ../sample_ids.csv
 
           cd ../..
 
